@@ -1,3 +1,14 @@
 # Climate-Change-Analysis
 
 This dashboard observes the ongoing rise in global CO2 emissions from 1990 - 2020 from the impact of human-induced activities. It also details how different sectors contribute to emissions, breaking down their respective outputs. These activities have intensified the greenhouse effect and triggered a sharp rise in global temperature. The higher temperature is fueling more extreme temperatures, leading to rising sea levels, thus, an increased risk of flooding. Additionally, more CO2 emissions cause the ocean to become more acidic which poses a threat to marine life. Our analysis of the 2023 climate adaptation plans from the top CO2-emitting countries reveals that those investing in climate education are achieving better results in reducing emissions. This underscores the vital role of education in addressing climate challenges and aligns with the United Nations’ SDG 13: Climate Action, which calls for more actions in educational materials on climate change in school curricula. It shows that greater investments in climate education will create more efforts on the world’s future sustainability.
+
+Consequences of climate change
+**The pH level** of the ocean is a critical indicator of climate change. As atmospheric carbon dioxide levels rise, the pH of the ocean decreases, indicating increased acidity, making the oceans significantly more acidic and potentially endangering marine life.
+The increase in average of ocean level
+Max of global average temp
+
+Human behavior that causes climate change (yellow chart)
+Disaster frequency increase
+
+
+Enhance policy (SOLUTION)
