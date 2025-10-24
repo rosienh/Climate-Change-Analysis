@@ -1,14 +1,10 @@
 # Climate-Change-Analysis
 
-This dashboard observes the ongoing rise in global CO2 emissions from 1990 - 2020 from the impact of human-induced activities. It also details how different sectors contribute to emissions, breaking down their respective outputs. These activities have intensified the greenhouse effect and triggered a sharp rise in global temperature. The higher temperature is fueling more extreme temperatures, leading to rising sea levels, thus, an increased risk of flooding. Additionally, more CO2 emissions cause the ocean to become more acidic which poses a threat to marine life. Our analysis of the 2023 climate adaptation plans from the top CO2-emitting countries reveals that those investing in climate education are achieving better results in reducing emissions. This underscores the vital role of education in addressing climate challenges and aligns with the United Nations’ SDG 13: Climate Action, which calls for more actions in educational materials on climate change in school curricula. It shows that greater investments in climate education will create more efforts on the world’s future sustainability.
+This dashboard visualises the steady rise in global CO₂ emissions from 1990 to 2020, highlighting the growing impact of human activity on the planet. It breaks down emissions by sector, showing how industries contribute differently to the overall increase.
 
-Consequences of climate change
-**The pH level** of the ocean is a critical indicator of climate change. As atmospheric carbon dioxide levels rise, the pH of the ocean decreases, indicating increased acidity, making the oceans significantly more acidic and potentially endangering marine life.
-The increase in average of ocean level
-Max of global average temp
+The data illustrates how rising CO₂ levels intensify the greenhouse effect, driving higher global temperatures. These temperature increases are linked to rising sea levels, more frequent extreme weather events, and greater risks of flooding. In addition, higher CO₂ concentrations are causing ocean acidification, threatening marine ecosystems and biodiversity.
 
-Human behavior that causes climate change (yellow chart)
-Disaster frequency increase
+An analysis of 2023 climate adaptation plans from the world’s top CO₂-emitting countries reveals that those investing in climate education are achieving more measurable progress in reducing emissions. This finding underscores the critical role of education in combating climate change and supports the United Nations Sustainable Development Goal 13 (Climate Action) — which calls for stronger inclusion of climate education in school curricula.
 
+Overall, the results demonstrate that greater investment in climate education not only promotes awareness but also drives meaningful action toward a more sustainable future.
 
-Enhance policy (SOLUTION)
