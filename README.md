@@ -2,7 +2,7 @@
 
 <img width="892" height="772" alt="image" src="https://github.com/user-attachments/assets/639e7bb1-da6a-4c97-acb8-9fb418761d2a" />
 
-(Please find the attached dashboard in the file above (end with .pbix)
+*(Please find the attached dashboard in the file above (end with .pbix)*
 
 This dashboard visualises the **steady rise in global CO₂ emissions** from 1990 to 2020, highlighting the **growing impact of human activity** on the planet. It breaks down emissions by sector, showing how **industries contribute differently to the overall increase**.
 
