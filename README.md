@@ -1,4 +1,4 @@
-# Climate Change Analysis
+# Visualizing Climate Change: Emissions, Impacts, and Education
 
 <img width="892" height="772" alt="image" src="https://github.com/user-attachments/assets/639e7bb1-da6a-4c97-acb8-9fb418761d2a" />
 
